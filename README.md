@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Welcom to Chordev's personal info page
+- Korean
+- Student of Seohyun High School
+- Aspiring Fullstack Developer
+- Interest   
+   - JS / Python
+   - Discord bot
+   - Application
+   - Database
 <!--
 **chordev/chordev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
