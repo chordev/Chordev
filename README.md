@@ -1,10 +1,8 @@
 ### Welcom to Chordev's personal info page
-- Korean
-- Student of Seohyun High School
-- Aspiring Fullstack Developer
+- Korean Student Developer
 - Interest   
-   - JS / Python
-   - Discord bot
+   - JS / Java / Kotlin / Python
+   - Web
    - Application
    - Database
 <!--
