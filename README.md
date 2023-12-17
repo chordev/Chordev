@@ -1,3 +1,4 @@
-![chord's GitHub stats](https://github-readme-stats.vercel.app/api?username=chordev&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chordev&layout=compact&theme=dark)
+# Hello there!
+- I'm a student developer from Korea
+- I'm currently 17 years old in Korean age, attending Seohyun High School
+- Started programing since 2022
