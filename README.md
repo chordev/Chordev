@@ -1,6 +1,6 @@
-# Hello there! ✨
+# Status📜
 ## Interests
-- Data analyze
+- Data analyze (pandas)
 - AI
 - Web designs
 - Robotics
@@ -8,4 +8,6 @@
 ## Usable Language
 - JS
 - Python
-- C (Learning..)
+
+## Currently working on..
+- Studying Unity
